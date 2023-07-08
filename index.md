@@ -7,13 +7,15 @@ hero:
   text: 'A VitePress Site'
   tagline: There's a little cannibal in all of us?
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+    - theme: alt
+      text: Sebastian work
+      link: /sebastian-work
     - theme: alt
       text: Philistines
       link: /philistines
-
+    - theme: alt
+      text: Subventures of Simon
+      link: /subventure/
 features:
   - title: Systematic degeneration
     details: It is as if nobody can escape what is ultimately coming. All client connections are temporarily refused.
