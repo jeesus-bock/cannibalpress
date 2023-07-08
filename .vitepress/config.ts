@@ -3,7 +3,8 @@ import { defineConfig } from 'vitepress';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'Cannibal Press',
-  description: 'A VitePress Site',
+  description: 'A VitePress Experiment',
+  base: '/cannibalpress/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
