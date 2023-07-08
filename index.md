@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: 'Cannibal Press'
-  text: 'A VitePress Site'
+  text: 'A VitePress / Github Pages Experiment'
   tagline: There's a little cannibal in all of us?
   actions:
     - theme: alt

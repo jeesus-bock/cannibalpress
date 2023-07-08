@@ -1,0 +1,9 @@
+:root {
+  --vp-sidebar-bg-color: #c9ada7;
+  --vp-c-bg: #f2e9e4;
+}
+
+.dark {
+  --vp-c-bg: #6b705c;
+  --vp-sidebar-bg-color: #6a040f;
+}
