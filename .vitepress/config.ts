@@ -23,6 +23,13 @@ export default defineConfig({
         ],
       },
     ],
+    lastUpdated: {
+      text: 'Updated at',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium',
+      },
+    },
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/jeesus-bock/cannibalpress' }],
   },

@@ -4,6 +4,6 @@ Enter Daddy the hairy werewolf-like barbarian with unspeakable bloodlust. Chaos 
 
 The gardigan was purple, but the light made it look some else color, undescribable, uncodifiable. Alma Mater of destruction looming over everything and everyone. Especially the ones who aren't aware of the future intendations. He was once a normal man. He was christened as Harry Davies, but let go of that name after he opened a door to the multiverse and found real calling. Henceforth he was called just _Daddy_.
 
-## Excaliburied s thousand feet deep
+## Excaliburied thousand feet deep
 
-He opened his eyes to see a glorius sight. It welcomed him. It got rid of all of his ordinary clothes and dresse him up like the he-man he was. Deerskins and a helmet made out of skull of a horned demon.
+He opened his eyes to see a glorius sight. It welcomed him.His muscles grew threefold ripping thru his normal clothes. It got rid of the shredded clothes and dressed him up like the he-man he was. Deerskins and a helmet made out of skull of a horned demon. The deerskins felt good on him, safe like coming home. In his right hand was the battle-axe called Gigaslayer and the left held a big cup full of sweet mead that gets you drunk fast but tastes real bad.
