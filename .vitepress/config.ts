@@ -19,7 +19,14 @@ export default defineConfig({
           { text: 'Sebastian work', link: '/sebastian-work' },
           { text: 'Philistines', link: '/philistines' },
           { text: 'Subventure', link: '/subventure/' },
-          { items: [{ text: 'Kalashnikov', link: '/subventure/kalashnikov' }] },
+          {
+            items: [
+              { text: 'Kalashnikov', link: '/subventure/kalashnikov' },
+              { text: 'Daddy', link: '/subventure/daddy' },
+            ],
+          },
+          { text: 'Basillus', link: '/basillus/' },
+          { items: [{ text: 'Shooting stars', link: '/basillus/starflight' }] },
         ],
       },
     ],
