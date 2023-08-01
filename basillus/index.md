@@ -151,4 +151,13 @@ wasn't.
 
 Rhetorical existence, I've slowed down. It's funny. Unfamiliar lukewarm liquid
 pouring over me rehydrating the husk. Automagical credentials nulled and voided.
-Angel with a stone sword let me skip the line.
+Angel with a stone sword let me skip the line. Was I on the same page anymore?
+Crawlers approach me and bring food and/or drugs to me. I eat all of it and it
+warms me from the inside, like a shot of whiskey. I saw a future where my frozen
+body was scraped off the pavement.
+
+Break in the ternary sides. Collate, conspire. The hoodlum is here, **wake up!**
+He steps around as if nothing. Even the shadows are afraid of him. But I am not,
+I'm the metal god flaming the flames of change. Beware, for I am coming. _"I'm
+not here to start anything."_ He exclaims but I don't care, it was my
+real-estate, not for him to pollute.
