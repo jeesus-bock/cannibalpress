@@ -27,6 +27,7 @@ export default defineConfig({
           },
           { text: 'Basillus', link: '/basillus/' },
           { items: [{ text: 'Shooting stars', link: '/basillus/starflight' }] },
+          { items: [{ text: 'Train ', link: '/basillus/train' }] },
         ],
       },
     ],
