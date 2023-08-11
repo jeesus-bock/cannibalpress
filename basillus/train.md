@@ -1,3 +1,5 @@
 The track underneath make a sound. It smells in here, of old people. I'm ready to make a move, but where would I be moving? I don't have anybody to talk about databases with. I'm stuck thinking about thinking about languages. Impact, cold shunt. I almost spill my soda. it tastes like oranges. The person apologizes. _"No need!"_ I reply.
 
-I lose the signal when the train enters a tunnel. luckily there weren't that many tunnels around and I wasn't 100% dependant of the signal.
+I lose the signal when the train enters a tunnel. Luckily there weren't that many tunnels around and I wasn't 100% dependant of the signal. Customs manifestations handed down by the metagarcs. Seventy five and counting.
+
+I read the screen of a man. He was investigating buy-and-sell boards for used cars. Maybe he was tired of taking the train, wanted to take control. How could I possibly know his intentions besides lucky guesses. My mobile phone is almost out of juice. Time to reload, refresh.
