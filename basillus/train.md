@@ -12,3 +12,8 @@ I read the screen of a man. He was investigating buy-and-sell boards for used ca
 
 The next town is a prison town. Don't ask me how I know. Maybe an escape artist boards the train in disguise. I wouldn't mind the company! A fugitive, that would really be something. A black woman scolds here kid in a language I'm not familiar with. But a scolding it is I'm sure, the body language gives it away.
 
+## Abhorrent foul
+
+They don't let us smoke on these things anymore. The tracks make a choir of human voices and sounds. Probably screaming at the injustice I'm facing. The show is on though and I'm happy anyways. I've been to the town we stop at next. Tried to buy beer from religious freaks. Bought it from someone else after the nutters deniend service. Fun visit anyways, now I don't even have the time to smoke while we stop.
+
+Music blaring on the headphones I miss any and all announcementson the trainwide PA. I doubt there's anythung worth pausing for 
